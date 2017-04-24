@@ -1,0 +1,1 @@
+insert into userjobs values(:profileID, :userID);

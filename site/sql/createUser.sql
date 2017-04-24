@@ -1,0 +1,1 @@
+insert into users (username, realName, password, hasSubmitted) values(:username, :name, :password, 'no');

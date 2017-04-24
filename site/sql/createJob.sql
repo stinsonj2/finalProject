@@ -1,0 +1,1 @@
+insert into jobprofile (jobName, description, payRate, skills, comments) values(:jobname,:jobdesc,:payrate,:skills,:comments);

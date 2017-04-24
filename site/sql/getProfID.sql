@@ -1,0 +1,1 @@
+select profileID from userjobs where userID=:userID;

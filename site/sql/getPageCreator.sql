@@ -1,0 +1,1 @@
+select users.realName from users inner join userjobs on users.userID=userjobs.userID inner join jobprofile on userjobs.profileID=jobprofile.profileID where jobprofile.profileID=:jobID;

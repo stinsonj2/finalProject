@@ -1,0 +1,1 @@
+select * from jobprofile where jobName like :term;

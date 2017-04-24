@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.buttons{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	display: block;
+	padding: 10px;
+	column-span: 1;
+}
+.pictures {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
