@@ -103,7 +103,7 @@ include('functions.php');
 			<div class="pictures">
     			<div class="buttons" style="text-align: right"><a href="search.php"><img src="media/button_search.png"></div></a>
     			
-     			<div class="buttons" style="text-align: left"><a href="submit.php"><img src="media/button_submit.png"></div></a>
+     			<div class="buttons" style="text-align: left"><a href="submit.php?action=add"><img src="media/button_submit.png"></div></a>
      		</div>
       </div>
         <div class="col-sm-2 sidenav">
